@@ -1,1 +1,0 @@
-import{t as e}from"./App-gMQKx2nv.js";import{t}from"./index-Bg3jzSiV.js";var n=t();function r(){return(0,n.jsx)(e,{variant:`velvet-stone`})}export{r as default};
