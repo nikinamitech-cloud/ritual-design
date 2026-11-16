@@ -1,1 +1,0 @@
-import{t as e}from"./App-CK7tUBKK.js";import{t}from"./index-DxDcKMR2.js";var n=t();function r(){return(0,n.jsx)(e,{variant:`velvet-graphite`})}export{r as default};
