@@ -1,1 +1,0 @@
-import{t as e}from"./App-RGFGkqfI.js";import{t}from"./index-BvnaqjSF.js";var n=t();function r(){return(0,n.jsx)(e,{variant:`velvet`})}export{r as default};
