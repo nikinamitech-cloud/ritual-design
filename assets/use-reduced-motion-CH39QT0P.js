@@ -1,1 +1,0 @@
-import{c as e,o as t,s as n}from"./clsx-BVycrBk1.js";import{C as r,w as i}from"./index-DwcU3nIo.js";var a=i(r(),1);function o(){!n.current&&t();let[r]=(0,a.useState)(e.current);return r}export{o as t};
