@@ -1,1 +1,0 @@
-import{t as e}from"./App-CPTdaweq.js";import{t}from"./index-Cp1b0JcJ.js";var n=t();function r(){return(0,n.jsx)(e,{variant:`velvet`})}export{r as default};

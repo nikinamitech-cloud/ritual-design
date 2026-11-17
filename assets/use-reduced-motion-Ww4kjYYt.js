@@ -1,0 +1,1 @@
+import{d as e,f as t,u as n}from"./core-CwMrwCXL.js";import{et as r,tt as i}from"./index-B28z1Pet.js";var a=i(r(),1);function o(){!e.current&&n();let[r]=(0,a.useState)(t.current);return r}export{o as t};

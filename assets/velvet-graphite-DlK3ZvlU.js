@@ -1,0 +1,1 @@
+import{t as e}from"./App-2Y1ttM8F.js";import{t}from"./index-B28z1Pet.js";var n=t();function r(){return(0,n.jsx)(e,{variant:`velvet-graphite`})}export{r as default};
